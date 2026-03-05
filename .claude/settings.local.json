@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh run:*)",
+      "Bash(gcloud:*)",
+      "Bash(gcloud auth:*)",
+      "Bash(aws sts:*)",
+      "Bash(gsutil ls:*)",
+      "Bash(gsutil:*)",
+      "Bash(aws s3:*)",
+      "Bash(wait 6243:*)",
+      "Bash(aws secretsmanager:*)",
+      "Bash(terraform plan:*)",
+      "Bash(terraform apply:*)",
+      "Bash(terraform state:*)",
+      "Bash(terraform output:*)",
+      "Bash(terraform:*)",
+      "Bash(curl:*)",
+      "Bash(gh secret:*)"
+    ]
+  }
+}
