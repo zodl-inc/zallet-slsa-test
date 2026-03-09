@@ -16,7 +16,10 @@
       "Bash(terraform output:*)",
       "Bash(terraform:*)",
       "Bash(curl:*)",
-      "Bash(gh secret:*)"
+      "Bash(gh secret:*)",
+      "Bash(grep:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
