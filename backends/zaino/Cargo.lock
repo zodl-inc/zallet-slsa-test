@@ -7567,7 +7567,7 @@ dependencies = [
 
 [[package]]
 name = "zallet-core"
-version = "0.1.0-alpha.4"
+version = "0.1.0-alpha.5"
 dependencies = [
  "abscissa_core",
  "abscissa_tokio",
@@ -7651,7 +7651,7 @@ dependencies = [
 
 [[package]]
 name = "zallet-zaino"
-version = "0.1.0-alpha.4"
+version = "0.1.0-alpha.5"
 dependencies = [
  "abscissa_core",
  "futures",
@@ -7679,7 +7679,7 @@ dependencies = [
 
 [[package]]
 name = "zallet-zebra-read-state"
-version = "0.1.0-alpha.4"
+version = "0.1.0-alpha.5"
 dependencies = [
  "tokio",
  "tracing",

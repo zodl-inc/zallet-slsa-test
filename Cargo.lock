@@ -6360,7 +6360,7 @@ dependencies = [
 
 [[package]]
 name = "zallet"
-version = "0.1.0-alpha.4"
+version = "0.1.0-alpha.5"
 dependencies = [
  "home",
  "toml 0.8.23",
@@ -6368,7 +6368,7 @@ dependencies = [
 
 [[package]]
 name = "zallet-core"
-version = "0.1.0-alpha.4"
+version = "0.1.0-alpha.5"
 dependencies = [
  "abscissa_core",
  "abscissa_tokio",

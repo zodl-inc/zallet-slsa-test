@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 During the alpha period, no Semantic Versioning is followed; all releases should
 be considered breaking changes.
 
+## [0.1.0-alpha.5] - 2026-07-08 (TEST RELEASE — zodl-inc/zallet-slsa-test only, not for zcash/zallet)
+
+### Changed
+
+- Release CI: the standalone binaries on the GitHub Release are now packaged as a
+  single `zallet-<version>-<platform>.tar.gz` per platform containing all three
+  binaries (`zallet` launcher, `zallet-zebra`, `zallet-zaino`) plus completions,
+  manpages, and the third-party license inventory — replacing the previous three
+  independent files per platform. The Docker image and `.deb` (which already ship
+  all three) are unchanged.
+
 ## [0.1.0-alpha.4] - 2026-06-25
 
 ### Added
